@@ -1,11 +1,11 @@
 
-
+theme: jekyll-theme-slate
 defaults:
   -
     scope:
       path: ""
     values:
-      theme: jekyll-theme-slate
+
       title: "My Website"
   -
     scope:
