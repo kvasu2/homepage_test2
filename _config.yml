@@ -1,2 +1,14 @@
-theme: jekyll-theme-slate
-title: "My Website"
+
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      theme: jekyll-theme-slate
+      title: "My Website"
+  -
+    scope:
+      path: "about"
+    values:
+      title: About
